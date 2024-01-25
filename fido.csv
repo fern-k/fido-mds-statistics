@@ -1,0 +1,213 @@
+,is fido sepcial,authenticator description,issuer detail
+0,True,Ledger Nano X FIDO2 Authenticator,"<Name(C=FR,O=Ledger,CN=Ledger FIDO Attestation CA)>"
+1,False,NEOWAVE Winkeo FIDO2,"<Name(C=FR,O=CertEurope,OU=0002 434202180,CN=CertEurope Elliptic Root CA,2.5.4.97=NTRFR-434202180)>"
+5,True,Feitian ePass FIDO-NFC Security Key,<Name(CN=FT FIDO 0200)>
+6,False,TruU Windows Authenticator,None
+8,True,Arculus FIDO 2.1 Key Card,"<Name(C=US,ST=New Jersey,L=Somerset,O=CompoSecure,OU=Arculus,CN=CompoSecure-FIDO-CA-Root)>"
+9,False,Cryptnox FIDO2,"<Name(C=CH,ST=GENEVA,O=CRYPTNOX SA,CN=CRYPTNOX ROOT CA)>"
+13,True,Excelsecu eSecu FIDO2 Pro Security Key,"<Name(C=CN,O=Excelsecu Data Technology Co.\, Ltd.,OU=Excelsecu Fido Server,CN=Excelsecu Fido Root CA 02)>"
+14,False,YubiKey 5 Series with Lightning,<Name(CN=Yubico U2F Root CA Serial 457200631)>
+15,False,IDmelon Android Authenticator,"<Name(O=Vancosys Data Security Inc.,CN=Vancosys Root CA)>"
+20,False,YubiKey 5 Series with NFC,<Name(CN=Yubico U2F Root CA Serial 457200631)>
+21,False,Pone Biometrics OFFPAD Authenticator,"<Name(CN=Pone Biometrics,C=NO,L=Oslo)>"
+23,False,Sentry Enterprises CTAP2 Authenticator,"<Name(CN=SENTRY ROOT,1.2.840.113549.1.9.1=mbennett@sentryenterprises.com,O=Sentry Enterprises ORG,OU=Authenticator Attestation,C=US,ST=PA,L=West Chester)>"
+24,False,Hideez Key 4 FIDO2 SDK,"<Name(CN=Hideez Root CA,1.2.840.113549.1.9.1=legal@hideez.com,O=Hideez Group Inc.,OU=Authenticator Attestation,C=US)>"
+26,True,Swissbit iShield FIDO2,"<Name(C=DE,O=Swissbit AG,CN=Swissbit FIDO Root CA)>"
+27,False,Security Key NFC by Yubico - Enterprise Edition,<Name(CN=Yubico U2F Root CA Serial 457200631)>
+28,True,Feitian ePass FIDO Security Key,<Name(CN=FT FIDO 0200)>
+29,True,IDEMIA ID-ONE Card,"<Name(C=US,ST=Virginia,L=Reston,O=IDEMIA,OU=Authenticator Attestation,CN=IDEMIA FIDO Root CA)>"
+30,False,Ensurity ThinC,<Name(CN=Ensurity ThinC Root CA)>
+31,True,ACS FIDO Authenticator,"<Name(C=HK,ST=Hong Kong,L=Hong Kong,O=Advanced Card Systems Ltd.,CN=ACS FIDO Root CA)>"
+32,False,ATKey.Pro CTAP2.0,"<Name(C=SE,O=ATKeyCA00,OU=Authenticator Attestation,CN=Authentrend CA 000)>"
+33,False,TrustKey G320 U2F Authenticator,"<Name(C=KR,ST=Seoul-Si,L=Gangnam-Gu,O=eWBM Co.\, Ltd.,OU=Authenticator Attestation,CN=eWBM CA Certificate,1.2.840.113549.1.9.1=info@e-wbm.com)>"
+34,False,TrustKey G320 U2F Authenticator,"<Name(C=KR,ST=Seoul,L=Gangnam,O=eWBM Co.\, Ltd.,OU=Certificate Unit,CN=eWBM Certificate,1.2.840.113549.1.9.1=info@e-wbm.com)>"
+35,True,Arculus FIDO2/U2F Key Card,"<Name(C=US,ST=New Jersey,L=Somerset,O=CompoSecure,OU=Arculus,CN=CompoSecure-FIDO-CA-Root)>"
+37,True,Excelsecu eSecu FIDO2 NFC Security Key,"<Name(C=CN,O=Excelsecu Data Technology Co.\, Ltd.,OU=Excelsecu Fido Server,CN=Excelsecu Fido Root CA 02)>"
+38,False,TOKEN2 FIDO2 Security Key,"<Name(C=CH,ST=Geneva,L=Versoix,O=TOKEN2,OU=Authenticator Attestation,CN=token2.com,1.2.840.113549.1.9.1=office@token2.com)>"
+39,True,ACS FIDO Authenticator Card,"<Name(C=HK,ST=Hong Kong,L=Hong Kong,O=Advanced Card Systems Ltd.,CN=ACS FIDO Root CA)>"
+40,True,Egomet FIDO2 Authenticator for Android,"<Name(C=IT,ST=ITALY,L=ROME,O=Movenda SPA,CN=MOVENDA FIDO Root Certificate,1.2.840.113549.1.9.1=pietro.ditta@movenda.com,OU=R&D)>"
+41,False,Windows Hello Hardware Authenticator,"<Name(C=US,ST=Washington,L=Redmond,O=Microsoft Corporation,CN=Microsoft TPM Root Certificate Authority 2014)>"
+42,False,Security Key NFC by Yubico,<Name(CN=Yubico U2F Root CA Serial 457200631)>
+43,True,Nymi FIDO2 Authenticator,<Name(CN=Nymi FIDO Attestation Root CA Gold)>
+44,True,KEY-ID FIDO2 Authenticator,"<Name(C=GB,O=Dot Origin Ltd,CN=FIDO Root CA)>"
+45,True,ImproveID Authenticator,"<Name(C=US,ST=Virginia,L=Ashburn,O=ImproveID\, Inc.,OU=Authenticator Attestation,CN=ImproveID FIDO Root CA)>"
+46,True,Feitian ePass FIDO2-NFC Authenticator,"<Name(C=US,O=Feitian Technologies,CN=Feitian FIDO Root CA)>"
+47,True,Feitian ePass FIDO2-NFC Authenticator,<Name(CN=FT FIDO 0200)>
+48,True,Feitian ePass FIDO2-NFC Authenticator,"<Name(C=CN,O=Feitian Technologies,CN=Feitian FIDO Root CA)>"
+52,True,Safenet eToken FIDO,<Name(CN=Gemalto MultiApp FIDO CA)>
+53,True,Safenet eToken FIDO,"<Name(C=FR,O=DIS,OU=CS,CN=Gemalto MultiApp FIDO Subca CA)>"
+54,True,KeyXentic FIDO2 Secp256R1 FIDO2 CTAP2 Authenticator,<Name(CN=KeyXentic FIDO Root CA)>
+55,False,ESS Smart Card Inc. Authenticator,"<Name(1.3.6.1.4.1.311.60.2.1.3=CA,1.3.6.1.4.1.311.60.2.1.2=Québec,1.3.6.1.4.1.311.60.2.1.1=Terrebonne,2.5.4.15=Sécurité Informatique / Cyber Security,2.5.4.5=NEQ 1173488645 / CN 1064773-0 / BN 767349681RC0001,1.2.840.113549.1.9.1=infoca@smartcardsecurity.ca,2.5.4.23=\+1 (450) 964-4511,2.5.4.20=\+1 (450) 964-7776,2.5.4.17=J6W 0A2,C=CA,ST=Québec,L=Terrebonne,STREET=1179 de l'express,OU=Autorité de Politique / Policy Authority,O=SSE Carte à Puce Inc. / ESS Smart Card Inc.,CN=SCP Autorité de Politique / SCS Certificate Policy Authority)>"
+56,False,ESS Smart Card Inc. Authenticator,"<Name(2.5.4.5=NEQ 1173488645 / CN 1064773-0 / BN 767349681RC0001,1.3.6.1.4.1.311.60.2.1.3=CA,1.3.6.1.4.1.311.60.2.1.2=Québec,1.3.6.1.4.1.311.60.2.1.1=Terrebonne,2.5.4.15=Sécurité Informatique / Cyber Security,1.2.840.113549.1.9.1=infoca@smartcardsecurity.ca,2.5.4.23=\+1 (450) 964-4511,2.5.4.20=\+1 (450) 964-7776,2.5.4.17=J6W 0A2,C=CA,ST=Québec,L=Terrebonne,STREET=1179 de l'express,OU=Authorité Racine / Root Authority,O=SSE Carte à Puce Inc. / ESS Smart Card Inc.,CN=Securité Carte à Puce (SCP) AC / Smart Card Security (SCS) CA)>"
+62,True,RSA DS100,"<Name(C=US,ST=MA,L=Bedford,O=RSA Security LLC,OU=Operations,CN=RSA FIDO CA Root)>"
+63,False,YubiKey 5 FIPS Series,<Name(CN=Yubico U2F Root CA Serial 457200631)>
+64,False,Security Key by Yubico with NFC,<Name(CN=Yubico U2F Root CA Serial 457200631)>
+66,True,Chunghwa Telecom FIDO2 Smart Card Authenticator,"<Name(C=TW,O=Chunghwa Telecom,CN=CHT FIDO2 Authenticator ROOT CA)>"
+67,True,GoTrust Idem Key FIDO2 Authenticator,"<Name(CN=GoTrust FIDO2 Root CA 1,O=GoTrustID Inc.)>"
+73,False,Redsys U2F Authenticator,"<Name(C=ES,ST=Comunidad de Madrid,L=Madrid,O=Redsys Servicios de Procesamiento SL,OU=Soluciones Chip y Tarjetas,CN=Redsys,1.2.840.113549.1.9.1=usugen.SolucionesCHIPydeEmision@redsys.es)>"
+74,False,OnlyKey Secp256R1 FIDO2 CTAP2 Authenticator,"<Name(C=US,ST=North Carolina,O=CryptoTrust,OU=Root CA,CN=crp.to,1.2.840.113549.1.9.1=info@crp.to)>"
+75,False,eWBM eFPA FIDO2 Authenticator,"<Name(C=KR,ST=Seoul-Si,L=Gangnam-Gu,O=eWBM Co.\, Ltd.,OU=Authenticator Attestation,CN=eWBM CA Certificate,1.2.840.113549.1.9.1=info@e-wbm.com)>"
+76,False,eWBM eFPA FIDO2 Authenticator,"<Name(C=KR,ST=Seoul,L=Gangnam,O=eWBM Co.\, Ltd.,OU=Certificate Unit,CN=eWBM Certificate,1.2.840.113549.1.9.1=info@e-wbm.com)>"
+77,False,Security Key by Yubico,<Name(CN=Yubico U2F Root CA Serial 457200631)>
+78,False,Solo Tap Secp256R1 FIDO2 CTAP2 Authenticator,"<Name(C=US,ST=Maryland,O=Solo Keys,OU=Root CA,CN=solokeys.com,1.2.840.113549.1.9.1=hello@solokeys.com)>"
+79,False,SmartDisplayer BobeePass FIDO2 Authenticator,"<Name(C=TW,O=SmartDisplayer Technology,CN=BobeePass)>"
+80,False,SOLID webKey,"<Name(C=ZA,O=LAW Trusted Third Party Services PTY Ltd.,OU=LAWtrust Trust Services Provider,CN=LAWtrust Private Root CA)>"
+83,False,YubiKey 5 FIPS Series with Lightning,<Name(CN=Yubico U2F Root CA Serial 457200631)>
+84,True,Feitian FIDO Smart Card,"<Name(C=US,O=Feitian Technologies,CN=Feitian FIDO Root CA)>"
+85,True,Feitian FIDO Smart Card,<Name(CN=FT FIDO 0200)>
+86,True,Feitian FIDO Smart Card,"<Name(C=CN,O=Feitian Technologies,CN=Feitian FIDO Root CA)>"
+90,False,YubiKey Bio Series,<Name(CN=Yubico U2F Root CA Serial 457200631)>
+91,False,NEOWAVE Badgeo FIDO2,"<Name(C=FR,O=CertEurope,OU=0002 434202180,CN=CertEurope Elliptic Root CA,2.5.4.97=NTRFR-434202180)>"
+95,True,HID Crescendo C3000,"<Name(C=US,O=HID Global,OU=Authenticator Attestation,CN=FIDO Attestation Root CA 2)>"
+96,False,IDmelon iOS Authenticator,"<Name(O=Vancosys Data Security Inc.,CN=Vancosys Root CA)>"
+97,True,GoTrust Idem Card U2F Authenticator,"<Name(CN=GoTrust FIDO2 Root CA 2,O=GoTrustID Inc.)>"
+99,False,TrustKey T120 U2F Authenticator,"<Name(C=KR,ST=Seoul-Si,L=Gangnam-Gu,O=eWBM Co.\, Ltd.,OU=Authenticator Attestation,CN=eWBM CA Certificate,1.2.840.113549.1.9.1=info@e-wbm.com)>"
+100,False,TrustKey T120 U2F Authenticator,"<Name(C=KR,ST=Seoul,L=Gangnam,O=eWBM Co.\, Ltd.,OU=Certificate Unit,CN=eWBM Certificate,1.2.840.113549.1.9.1=info@e-wbm.com)>"
+101,True,Excelsecu eSecu FIDO Security Key,"<Name(C=CN,ST=Guangdong,L=Shenzhen,O=Shenzhen Excelsecu Data Technology Co. Ltd,OU=Excelsecu Fido Server,CN=Excelsecu Fido CA)>"
+102,True,Feitian BioPass FIDO2 Plus Authenticator,"<Name(C=US,O=Feitian Technologies,CN=Feitian FIDO Root CA)>"
+103,True,Feitian BioPass FIDO2 Plus Authenticator,"<Name(C=CN,O=Feitian Technologies,CN=Feitian FIDO Root CA)>"
+104,True,Feitian BioPass FIDO2 Plus Authenticator,<Name(CN=FT FIDO 0200)>
+105,False,Bluink Key U2F Authenticator,"<Name(C=CA,ST=Ontario,L=Ottawa,O=Bluink Ltd,CN=Bluink Key,1.2.840.113549.1.9.1=lhamid@bluink.ca)>"
+108,True,Hyper FIDO Bio Security Key,"<Name(C=CA,O=HYPERSECU,CN=HYPERFIDO 0200)>"
+109,False,Somu Secp256R1 FIDO2 CTAP2 Authenticator,"<Name(C=US,ST=Maryland,O=Solo Keys,OU=Root CA,CN=solokeys.com,1.2.840.113549.1.9.1=hello@solokeys.com)>"
+110,True,Arculus FIDO2/U2F Key Card [P71],"<Name(C=US,ST=New Jersey,L=Somerset,O=CompoSecure,OU=Arculus,CN=CompoSecure-FIDO-CA-Root)>"
+111,False,FIDO KeyPass S3,"<Name(C=VN,ST=NS,L=Ha Noi,O=MKGroup,OU=RootCA,CN=mk.com.vn,1.2.840.113549.1.9.1=support@mk.com.vn)>"
+112,True,Excelsecu eSecu FIDO2 Fingerprint Security Key,"<Name(C=CN,O=Excelsecu Data Technology Co.\, Ltd.,OU=Excelsecu Fido Server,CN=Excelsecu Fido Root CA 02)>"
+114,False,Android Authenticator with SafetyNet Attestation,"<Name(O=Cybertrust\, Inc,CN=Cybertrust Global Root)>"
+115,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,O=Starfield Technologies\, Inc.,OU=Starfield Class 2 Certification Authority)>"
+116,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,ST=New Jersey,L=Jersey City,O=The USERTRUST Network,CN=USERTrust ECC Certification Authority)>"
+117,False,Android Authenticator with SafetyNet Attestation,"<Name(OU=GlobalSign Root CA - R3,O=GlobalSign,CN=GlobalSign)>"
+118,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,ST=Arizona,L=Scottsdale,O=Starfield Technologies\, Inc.,CN=Starfield Root Certificate Authority - G2)>"
+119,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,O=Google Trust Services LLC,CN=GTS Root R1)>"
+120,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,O=DigiCert Inc,OU=www.digicert.com,CN=DigiCert High Assurance EV Root CA)>"
+121,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,O=DigiCert Inc,OU=www.digicert.com,CN=DigiCert Assured ID Root CA)>"
+122,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,O=Google Trust Services LLC,CN=GTS Root R4)>"
+123,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,O=DigiCert Inc,OU=www.digicert.com,CN=DigiCert Trusted Root G4)>"
+124,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,O=Google Trust Services LLC,CN=GTS Root R2)>"
+125,False,Android Authenticator with SafetyNet Attestation,"<Name(C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO ECC Certification Authority)>"
+126,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,O=AffirmTrust,CN=AffirmTrust Commercial)>"
+127,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,O=The Go Daddy Group\, Inc.,OU=Go Daddy Class 2 Certification Authority)>"
+128,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,O=Entrust\, Inc.,OU=See www.entrust.net/legal-terms,OU=(c) 2009 Entrust\, Inc. - for authorized use only,CN=Entrust Root Certification Authority - G2)>"
+129,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,O=AffirmTrust,CN=AffirmTrust Premium)>"
+130,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,O=GeoTrust Inc.,CN=GeoTrust Global CA)>"
+131,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,O=DigiCert Inc,OU=www.digicert.com,CN=DigiCert Assured ID Root G2)>"
+132,False,Android Authenticator with SafetyNet Attestation,"<Name(C=BE,O=GlobalSign nv-sa,OU=Root CA,CN=GlobalSign Root CA)>"
+133,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,ST=New Jersey,L=Jersey City,O=The USERTRUST Network,CN=USERTrust RSA Certification Authority)>"
+134,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,O=DigiCert Inc,OU=www.digicert.com,CN=DigiCert Global Root CA)>"
+135,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,O=Entrust\, Inc.,OU=See www.entrust.net/legal-terms,OU=(c) 2012 Entrust\, Inc. - for authorized use only,CN=Entrust Root Certification Authority - EC1)>"
+136,False,Android Authenticator with SafetyNet Attestation,"<Name(C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO RSA Certification Authority)>"
+137,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,O=AffirmTrust,CN=AffirmTrust Premium ECC)>"
+138,False,Android Authenticator with SafetyNet Attestation,"<Name(C=GB,ST=Greater Manchester,L=Salford,O=Comodo CA Limited,CN=AAA Certificate Services)>"
+139,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,O=DigiCert Inc,OU=www.digicert.com,CN=DigiCert Assured ID Root G3)>"
+140,False,Android Authenticator with SafetyNet Attestation,"<Name(O=Entrust.net,OU=www.entrust.net/CPS_2048 incorp. by ref. (limits liab.),OU=(c) 1999 Entrust.net Limited,CN=Entrust.net Certification Authority (2048))>"
+141,False,Android Authenticator with SafetyNet Attestation,"<Name(OU=GlobalSign ECC Root CA - R5,O=GlobalSign,CN=GlobalSign)>"
+142,False,Android Authenticator with SafetyNet Attestation,"<Name(OU=GlobalSign Root CA - R6,O=GlobalSign,CN=GlobalSign)>"
+143,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,O=Entrust\, Inc.,OU=www.entrust.net/CPS is incorporated by reference,OU=(c) 2006 Entrust\, Inc.,CN=Entrust Root Certification Authority)>"
+144,False,Android Authenticator with SafetyNet Attestation,"<Name(OU=GlobalSign ECC Root CA - R4,O=GlobalSign,CN=GlobalSign)>"
+145,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,ST=Arizona,L=Scottsdale,O=GoDaddy.com\, Inc.,CN=Go Daddy Root Certificate Authority - G2)>"
+146,False,Android Authenticator with SafetyNet Attestation,"<Name(C=IE,O=Baltimore,OU=CyberTrust,CN=Baltimore CyberTrust Root)>"
+147,False,Android Authenticator with SafetyNet Attestation,"<Name(OU=GlobalSign Root CA - R2,O=GlobalSign,CN=GlobalSign)>"
+148,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,O=Google Trust Services LLC,CN=GTS Root R3)>"
+149,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,O=DigiCert Inc,OU=www.digicert.com,CN=DigiCert Global Root G2)>"
+150,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,O=AffirmTrust,CN=AffirmTrust Networking)>"
+151,False,Android Authenticator with SafetyNet Attestation,"<Name(C=GB,ST=Greater Manchester,L=Salford,O=COMODO CA Limited,CN=COMODO Certification Authority)>"
+152,False,Android Authenticator with SafetyNet Attestation,"<Name(C=US,O=DigiCert Inc,OU=www.digicert.com,CN=DigiCert Global Root G3)>"
+154,False,ATKey.Hello TypeC,<Name(CN=EgisTec Fingerprint U2F VD CA)>
+156,False,Windows Hello VBS Hardware Authenticator,"<Name(C=US,ST=Washington,L=Redmond,O=Microsoft Corporation,CN=Microsoft TPM Root Certificate Authority 2014)>"
+159,True,KONAI Secp256R1 FIDO2 Conformance Testing CTAP2 Authenticator,"<Name(C=KR,O=Kona,OU=Authenticator Attestation,CN=FIDO2.0 Authenticator Root Certificate)>"
+160,False,SHALO AUTH,<Name(CN=AXELL U2F CA Serial 1422454175)>
+161,True,Arculus FIDO 2.1 Key Card [P71],"<Name(C=US,ST=New Jersey,L=Somerset,O=CompoSecure,OU=Arculus,CN=CompoSecure-FIDO-CA-Root)>"
+163,False,Google Titan Security Key v2,"<Name(C=US,O=Google,OU=Authenticator Attestation,CN=Titan Security Key Root)>"
+165,False,eWBM eFA500 FIDO2 Authenticator,"<Name(C=KR,ST=Seoul-Si,L=Gangnam-Gu,O=eWBM Co.\, Ltd.,OU=Authenticator Attestation,CN=eWBM CA Certificate,1.2.840.113549.1.9.1=info@e-wbm.com)>"
+166,False,eWBM eFA500 FIDO2 Authenticator,"<Name(C=KR,ST=Seoul,L=Gangnam,O=eWBM Co.\, Ltd.,OU=Certificate Unit,CN=eWBM Certificate,1.2.840.113549.1.9.1=info@e-wbm.com)>"
+167,False,YubiKey 5 FIPS Series with NFC,<Name(CN=Yubico U2F Root CA Serial 457200631)>
+168,True,HID Crescendo Key,"<Name(C=US,O=HID Global,OU=Authenticator Attestation,CN=FIDO Attestation Root CA 1)>"
+169,False,Yubikey Edge,<Name(CN=Yubico U2F Root CA Serial 457200631)>
+171,True,Excelsecu eSecu FIDO2 PRO Security Key,"<Name(C=CN,O=Excelsecu Data Technology Co.\, Ltd.,OU=Excelsecu Fido Server,CN=Excelsecu Fido Root CA 02)>"
+172,True,Feitian iePass FIDO Authenticator,<Name(CN=FT FIDO 0200)>
+173,True,Feitian iePass FIDO Authenticator,"<Name(C=CN,O=Feitian Technologies,CN=Feitian FIDO Root CA)>"
+174,True,Feitian iePass FIDO Authenticator,"<Name(C=US,O=Feitian Technologies,CN=Feitian FIDO Root CA)>"
+175,False,Hideez Key 4 U2F SDK,"<Name(CN=Hideez Root CA,1.2.840.113549.1.9.1=legal@hideez.com,O=Hideez Group Inc.,OU=Authenticator Attestation,C=US)>"
+177,True,HID Crescendo C2300,"<Name(C=US,O=HID Global,OU=Authenticator Attestation,CN=FIDO Attestation Root CA 1)>"
+178,False,eWBM eFA320 FIDO2 Authenticator,"<Name(C=KR,ST=Seoul-Si,L=Gangnam-Gu,O=eWBM Co.\, Ltd.,OU=Authenticator Attestation,CN=eWBM CA Certificate,1.2.840.113549.1.9.1=info@e-wbm.com)>"
+179,False,eWBM eFA320 FIDO2 Authenticator,"<Name(C=KR,ST=Seoul,L=Gangnam,O=eWBM Co.\, Ltd.,OU=Certificate Unit,CN=eWBM Certificate,1.2.840.113549.1.9.1=info@e-wbm.com)>"
+182,True,GoTrust Idem Card FIDO2 Authenticator,"<Name(CN=GoTrust FIDO2 Root CA 2,O=GoTrustID Inc.)>"
+184,True,Feitian AllinOne FIDO2 Authenticator,"<Name(C=US,O=Feitian Technologies,CN=Feitian FIDO Root CA)>"
+185,True,Feitian AllinOne FIDO2 Authenticator,"<Name(C=CN,O=Feitian Technologies,CN=Feitian FIDO Root CA)>"
+186,True,Feitian AllinOne FIDO2 Authenticator,<Name(CN=FT FIDO 0200)>
+187,False,Precision InnaIT Key FIDO 2 Level 2 certified,"<Name(DC=com,DC=Precision,CN=Precision-CA)>"
+192,True,YubiKey 5 Series CTAP2.1 Preview Expired ,<Name(CN=Yubico FIDO Preview CA 2020)>
+193,False,YubiKey Bio Series (Enterprise Profile),<Name(CN=Yubico U2F Root CA Serial 457200631)>
+194,False,Crayonic KeyVault K1 (USB-NFC-BLE FIDO2 Authenticator),"<Name(C=NL,O=Crayonic,OU=Authenticator Attestation,CN=crayonic.com,1.2.840.113549.1.9.1=info@crayonic.io)>"
+196,False,FIDO Alliance TruU Sample FIDO2 Authenticator,"<Name(C=US,ST=Colorado,L=Denver,O=TruU\, Inc.,OU=Authenticator Attestation,CN=truu.ai)>"
+197,False,FIDO Alliance TruU Sample FIDO2 Authenticator,None
+198,True,HyperFIDO U2F Security Key,"<Name(C=CA,O=HYPERSECU,CN=HYPERFIDO 0200)>"
+199,False,Hideez Key 3 U2F,"<Name(C=US,ST=DE,L=Dover,O=Hideez Group Inc.,OU=Hideez Certificate Authority,CN=Hideez Root CA,1.2.840.113549.1.9.1=legal@hideez.com)>"
+201,False,OCTATCO EzFinger2 U2F AUTHENTICATOR,"<Name(C=KR,O=OCTATCO CO.\, LTD,OU=Authenticator Attestation,CN=OCTATCO Root CA Certificate)>"
+202,True,Ledger Nano S Plus FIDO2 Authenticator,"<Name(C=FR,O=Ledger,CN=Ledger FIDO Attestation CA)>"
+203,False,KONAI Secp256R1 Conformance Testing U2F Authenticator,"<Name(C=KR,O=Kona,OU=Private,CN=KonaECC)>"
+204,False,YubiKey NEO,<Name(CN=Yubico U2F Root CA Serial 457200631)>
+210,True,NXP Semiconductros FIDO2 Conformance Testing CTAP2 Authenticator,"<Name(C=US,O=NXP Semiconductors,OU=CA AA,CN=CA FIDO2)>"
+211,False,KeyVault Secp256R1 FIDO2 CTAP2 Authenticator,"<Name(C=SK,O=Crayonic,OU=Authenticator Attestation,CN=crayonic.com,1.2.840.113549.1.9.1=info@crayonic.io)>"
+212,False,"Allthenticator App: roaming BLE FIDO2 Allthenticator for Windows, Mac, Linux, and Allthenticate door readers","<Name(C=US,ST=Texas,L=Houston,O=Allthenticate Inc,OU=Engineering,CN=Allthenticate,1.2.840.113549.1.9.1=help@allthenticate.com)>"
+214,True,HID Crescendo Enabled,"<Name(C=US,O=HID Global,OU=Authenticator Attestation,CN=FIDO Attestation Root CA 2)>"
+215,False,YubiKey 5 Series,<Name(CN=Yubico U2F Root CA Serial 457200631)>
+217,False,TEST (DUMMY RECORD),"<Name(C=CH,ST=Geneva,L=Versoix,O=TOKEN2,OU=Authenticator Attestation,CN=token2.com,1.2.840.113549.1.9.1=office@token2.com)>"
+218,False,TrustKey G310 U2F Authenticator,"<Name(C=KR,ST=Seoul,L=Gangnam,O=eWBM Co.\, Ltd.,OU=Certificate Unit,CN=eWBM Certificate,1.2.840.113549.1.9.1=info@e-wbm.com)>"
+219,False,TrustKey G310 U2F Authenticator,"<Name(C=KR,ST=Seoul-Si,L=Gangnam-Gu,O=eWBM Co.\, Ltd.,OU=Authenticator Attestation,CN=eWBM CA Certificate,1.2.840.113549.1.9.1=info@e-wbm.com)>"
+222,True,OneSpan FIDO Touch,"<Name(C=US,O=OneSpan,OU=Authenticator Attestation,CN=OneSpan Digipass 785 FIDO CA)>"
+223,True,OneSpan FIDO Touch,"<Name(C=US,O=OneSpan,OU=Authenticator Attestation,CN=OneSpan Digipass FIDO Touch CA)>"
+224,True,OneSpan FIDO Touch,"<Name(C=BE,ST=Brabant,L=Strombeek-Bever,O=VASCO Data Security,OU=Authenticator Attestation,CN=VASCO DP785FIDO ROOT,1.2.840.113549.1.9.1=jov@vasco.com)>"
+226,False,Gemalto MultiApp FIDO Authenticator,"<Name(C=FR,L=Tours,O=Gemalto,CN=Gemalto Business Solutions Certificate Authority)>"
+227,False,TOKEN2 PIN Plus Security Key Series ,"<Name(C=CH,ST=Geneva,L=Versoix,O=TOKEN2,OU=Authenticator Attestation,CN=token2.com,1.2.840.113549.1.9.1=office@token2.com)>"
+229,False,ATKey.Pro CTAP2.1,"<Name(C=SE,O=ATKeyCA00,OU=Authenticator Attestation,CN=Authentrend CA 000)>"
+230,False,authenton1 - CTAP 2.1,"<Name(OU=GlobalSign Root CA - R3,O=GlobalSign,CN=GlobalSign)>"
+232,True,USB/NFC Passcode Authenticator,"<Name(C=DE,O=Infineon Technologies AG,OU=CA for Authenticator Attestation,CN=Infineon FIDO CA)>"
+233,False,Token Ring FIDO2 Authenticator,"<Name(C=US,ST=New York,O=Tokenize Inc.,OU=Authenticator Attestation,CN=Token Ring)>"
+234,True,Hyper FIDO Pro,"<Name(C=CA,O=HYPERSECU,CN=HYPERFIDO 0200)>"
+236,True,uTrust FIDO2 Security Key,<Name(CN=Identiv FIDO Intermediate CA)>
+237,False,Egis U2F BLE Authenticator,<Name(CN=Egistec CA for U2F)>
+239,False,WiSECURE AuthTron USB FIDO2 Authenticator,"<Name(C=TW,ST=Taipei,L=Somewhere,O=WiSECURE Inc.,1.2.840.113549.1.9.1=admin@example.org,CN=WiSECURE Root CA)>"
+240,False,WiSECURE AuthTron USB FIDO2 Authenticator,"<Name(C=TW,O=WiSECURE Technologies Corporation,OU=Authenticator Attestation,CN=WiSECURE Root CA)>"
+241,False,WiSECURE AuthTron USB FIDO2 Authenticator,"<Name(C=TW,ST=Taipei,L=Taiwan,O=WiSECURE Technologies Corporation,CN=WiSECURE Root CA)>"
+242,True,GoTrust Idem Key U2F Authenticator,"<Name(CN=GoTrust FIDO2 Root CA 1,O=GoTrustID Inc.)>"
+246,True,Feitian MultiPass FIDO Security Key,<Name(CN=FT FIDO 0200)>
+247,False,ATKey.Card NFC,<Name(CN=Authentrend ATKey Root CA 20220908)>
+248,True,Excelsecu eSecu FIDO2 Fingerprint Key,"<Name(C=CN,O=Excelsecu Data Technology Co.\, Ltd.,OU=Excelsecu Fido Server,CN=Excelsecu Fido Root CA 02)>"
+249,False,VinCSS FIDO2 Authenticator,"<Name(C=VN,ST=HoChiMinh,O=VinCSS,OU=RootCA,CN=ca.vincss.net,1.2.840.113549.1.9.1=admin@vincss.net)>"
+250,True,HID Crescendo Key V2,"<Name(C=US,O=HID Global,OU=Authenticator Attestation,CN=FIDO Attestation Root CA 2)>"
+253,False,HYPR FIDO2 Authenticator,"<Name(C=US,ST=NY,L=New York,O=HYPR Corp,OU=Root CA,CN=hypr.com,1.2.840.113549.1.9.1=support@hypr.com)>"
+254,False,MK Keypass S1,"<Name(C=VN,ST=North Side,L=HaNoi,O=MK Group,CN=mk.com.vn)>"
+255,False,VivoKey Apex FIDO2,"<Name(C=US,O=VivoKey,OU=Authenticator Attestation,CN=VivoKey Attestation Root CA)>"
+256,False,ATKey.ProS,<Name(CN=Authentrend ATKey Root CA 20220908)>
+257,True,Hyper FIDO U2F Mini Security Key,"<Name(C=CA,O=HYPERSECU,CN=HYPERFIDO 0200)>"
+258,False,TrustKey T110 U2F Authenticator,"<Name(C=KR,ST=Seoul-Si,L=Gangnam-Gu,O=eWBM Co.\, Ltd.,OU=Authenticator Attestation,CN=eWBM CA Certificate,1.2.840.113549.1.9.1=info@e-wbm.com)>"
+259,False,TrustKey T110 U2F Authenticator,"<Name(C=KR,ST=Seoul,L=Gangnam,O=eWBM Co.\, Ltd.,OU=Certificate Unit,CN=eWBM Certificate,1.2.840.113549.1.9.1=info@e-wbm.com)>"
+261,False,Solo Secp256R1 FIDO2 CTAP2 Authenticator,"<Name(C=US,ST=Maryland,O=Solo Keys,OU=Root CA,CN=solokeys.com,1.2.840.113549.1.9.1=hello@solokeys.com)>"
+262,True,KX701 SmartToken FIDO,<Name(CN=KeyXentic FIDO Root CA)>
+263,False,authenton1 - CTAP2.1,"<Name(OU=GlobalSign Root CA - R3,O=GlobalSign,CN=GlobalSign)>"
+264,True,IDPrime 3940 FIDO,<Name(CN=Gemalto MultiApp FIDO CA)>
+265,True,IDPrime 3940 FIDO,"<Name(C=FR,O=DIS,OU=CS,CN=Gemalto MultiApp FIDO Subca CA)>"
+266,True,FT-JCOS FIDO Fingerprint Card,"<Name(C=CN,O=Feitian Technologies,CN=Feitian FIDO Root CA)>"
+267,True,FT-JCOS FIDO Fingerprint Card,"<Name(C=US,O=Feitian Technologies,CN=Feitian FIDO Root CA)>"
+268,True,FT-JCOS FIDO Fingerprint Card,<Name(CN=FT FIDO 0200)>
+269,False,OCTATCO EzFinger2 FIDO2 AUTHENTICATOR,"<Name(C=KR,O=OCTATCO CO.\, LTD,OU=Authenticator Attestation,CN=OCTATCO Root CA Certificate)>"
+270,False,TruU Windows Authenticator,"<Name(C=US,ST=Colorado,L=Denver,O=TruU\, Inc.,OU=Authenticator Attestation,CN=truu.ai)>"
+271,False,Hideez Key 3 FIDO2,"<Name(C=US,ST=DE,L=Dover,O=Hideez Group Inc.,OU=Hideez Certificate Authority,CN=Hideez Root CA,1.2.840.113549.1.9.1=legal@hideez.com)>"
+274,True,Feitian BioPass FIDO Security Key,<Name(CN=FT FIDO 0200)>
+275,False,ATKey.Card CTAP2.0,"<Name(C=SE,O=ATKeyCA00,OU=Authenticator Attestation,CN=Authentrend CA 000)>"
+277,False,eWBM eFA310 FIDO2 Authenticator,"<Name(C=KR,ST=Seoul-Si,L=Gangnam-Gu,O=eWBM Co.\, Ltd.,OU=Authenticator Attestation,CN=eWBM CA Certificate,1.2.840.113549.1.9.1=info@e-wbm.com)>"
+278,False,eWBM eFA310 FIDO2 Authenticator,"<Name(C=KR,ST=Seoul,L=Gangnam,O=eWBM Co.\, Ltd.,OU=Certificate Unit,CN=eWBM Certificate,1.2.840.113549.1.9.1=info@e-wbm.com)>"
+281,True,Excelsecu eSecu FIDO2 Security Key,"<Name(C=CN,O=Shenzhen Excelsecu Data Technology Co. Ltd,OU=Excelsecu Fido Server,CN=Excelsecu Fido Root CA 01)>"
+282,False,OCTATCO EzQuant FIDO2 AUTHENTICATOR,"<Name(C=KR,O=OCTATCO CO.\, LTD,OU=Authenticator Attestation,CN=OCTATCO Root CA Certificate)>"
+283,True,ellipticSecure MIRkey USB Authenticator,"<Name(CN=ellipticSecure FIDO Root CA,OU=ellipticsecure.com,O=ellipticSecure,C=US)>"
+284,False,YK4 Series Key by Yubico,<Name(CN=Yubico U2F Root CA Serial 457200631)>
+285,False,VivoKey Apex U2F,"<Name(C=US,O=VivoKey,OU=Authenticator Attestation,CN=VivoKey Attestation Root CA)>"
+286,False,Atos CardOS FIDO2,"<Name(C=GE,O=Atos,OU=Authenticator Attestation,CN=Atos root)>"
+288,True,Feitian BioPass FIDO2 Authenticator,"<Name(C=US,O=Feitian Technologies,CN=Feitian FIDO Root CA)>"
+289,True,Feitian BioPass FIDO2 Authenticator,<Name(CN=FT FIDO 0200)>
+290,True,Feitian BioPass FIDO2 Authenticator,"<Name(C=CN,O=Feitian Technologies,CN=Feitian FIDO Root CA)>"
+291,False,VeriMark Guard Fingerprint Key,"<Name(C=US,ST=CA,L=San Jose,O=Synaptics\, Inc.,OU=PCD,CN=Synaptics CA,1.2.840.113549.1.9.1=cert-authority@synaptics.com)>"
+292,True,Feitian ePass FIDO2 Authenticator,"<Name(C=US,O=Feitian Technologies,CN=Feitian FIDO Root CA)>"
+293,True,Feitian ePass FIDO2 Authenticator,"<Name(C=CN,O=Feitian Technologies,CN=Feitian FIDO Root CA)>"
+294,True,Feitian ePass FIDO2 Authenticator,<Name(CN=FT FIDO 0200)>
